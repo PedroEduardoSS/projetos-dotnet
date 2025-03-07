@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "308M+W9DBLYTl5gQxiYCT2L/z+np3OGfM+noFcWJdPwwSgUopCP3JrTiCMuidfqG7fBkLTjEPz8IiDYRyiBYsQ==",
+  "success": true,
+  "projectFilePath": "/mnt/44B23D08B23D004A/repos/projetos-dotnet/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/home/pedroeduardo/.nuget/packages/microsoft.aspnetcore.openapi/8.0.12/microsoft.aspnetcore.openapi.8.0.12.nupkg.sha512",
+    "/home/pedroeduardo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/pedroeduardo/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/pedroeduardo/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/home/pedroeduardo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/home/pedroeduardo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/home/pedroeduardo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
